@@ -1,0 +1,33 @@
+body{
+    background: url(https://sweetchilling.com/cdn/shop/files/3__0002_000043_2_2100x.jpg?v=1712931103) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.sweet-chilling-logo{
+    background-color: white;
+    width: 100%;
+    height: 75px;
+}
+
+.icons{
+    margin-right: 25px;
+}
+.logo{
+    padding-top: 10px;
+}
+.img{
+    max-width: 200px;
+}
+
+.nav-item a:hover {
+    color: gray;
+}
+
+.shipping-bar {
+    background-color: #E0E2E4 !important;
+}
+
+.shipping-bar .shipping {
+    color: #ffffff; 
+    font-size: 0.8rem;
+}
